@@ -6,6 +6,7 @@ import "./ConvertLib.sol";
 // It is not standards compatible and cannot be expected to talk to other
 // coin/token contracts. If you want to create a standards-compliant
 // token, see: https://github.com/ConsenSys/Tokens. Cheers!
+//yeah works perfectly...
 
 contract MetaCoin {
     mapping (address => uint) balances;
